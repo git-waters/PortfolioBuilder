@@ -19,7 +19,7 @@ NAME = input("Enter Twitter User: ")
 # Creating the Reddit mention scraper
 reddit = praw.Reddit(client_id="ODVkiy6frvzFdw",
                      client_secret="dWbZm7Tm-Cldn-Hk2BbVMDC6va0Ygw",
-                     password="Jem20202020<>",
+                     password="8sY4DnnQ_@@!eBK",
                      user_agent="PortfolioBuilder Project by u/Calm-Water",
                      username="Calm-Water")
 ################################################################################
