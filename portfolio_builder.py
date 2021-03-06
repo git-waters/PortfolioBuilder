@@ -18,10 +18,10 @@ NAME = input("Enter Twitter User: ")
 ################################################################################
 # Creating the Reddit mention scraper
 reddit = praw.Reddit(client_id="ODVkiy6frvzFdw",
-                     client_secret="dWbZm7Tm-Cldn-Hk2BbVMDC6va0Ygw",
-                     password="8sY4DnnQ_@@!eBK",
+                     client_secret="",
+                     password="",
                      user_agent="PortfolioBuilder Project by u/Calm-Water",
-                     username="Calm-Water")
+                     username="")
 ################################################################################
 # Creating the Twitter mention scraper
 # Creating the authentication object
